@@ -6,8 +6,10 @@
 [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w6/Li_Adaptation_and_Re-Identification_CVPR_2018_paper.pdf)
 
 
-Pytorch implementation for our CVPR 2018 Workshop paper. 
+Pytorch implementation for our CVPR 2018 Workshop paper. This version of code is the draft. We note that the original workshop paper (short paper) has some unclear parts and we will address this by submitting the entire version in the future.
 
+## News
+- [3/12] Due to our extension is rejected (maybe some unfair reviews), the full version of the ARN will be completed released after our extension is accepted and published in the future. Hence, we will start to address the issues after then. Sorry for any inconvenience.
 
 ## Prerequisites
 - Python 3
