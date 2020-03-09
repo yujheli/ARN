@@ -8,25 +8,11 @@
 
 Pytorch implementation for our CVPR 2018 Workshop paper. This version of code is the draft. We note that the original workshop paper (short paper) has some unclear parts and we will address this by submitting the entire version in the future.
 
-## News
-- [3/12] Due to our extension is rejected (maybe some unfair reviews), the full version of the ARN will be completed released after our extension is accepted and published in the future. Hence, we will start to address the issues after then. Sorry for any inconvenience.
-
 ## Prerequisites
 - Python 3
 - [Pytorch](https://pytorch.org/)
 
 ## Getting Started
-
-<!-- ### Installation
-- Install dependencies (e.g., [visdom](https://github.com/facebookresearch/visdom) and [dominate](https://github.com/Knio/dominate)). You can install all the dependencies by:
-```
-pip install scipy, pillow, torchvision, sklearn, h5py, dominate, visdom
-```
-- Clone this repo:
-```
-git clone https://github.com/yxgeee/FD-GAN
-cd FD-GAN/
-``` -->
 
 ### Datasets
 We conduct experiments on [Market1501](http://www.liangzheng.org/Project/project_reid.html), [DukeMTMC-reID](https://github.com/layumi/DukeMTMC-reID_evaluation)
